@@ -124,13 +124,6 @@ src/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-
-## Contact
-
-Your Full Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-
-Project Link: [https://github.com/your-actual-username/blog-generator](https://github.com/your-actual-username/blog-generator)
-
 ## Screenshots
 
 ### Dashboard

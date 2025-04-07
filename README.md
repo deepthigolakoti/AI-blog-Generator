@@ -17,7 +17,7 @@ A modern, full-stack web application for generating and managing blog content us
 
 ## Live Demo
 
-[View Live Demo](https://grand-cheesecake-da3a44.netlify.app/login)
+[View Live Demo](https://grand-cheesecake-da3a44.netlify.app)
 
 ## Tech Stack
 
